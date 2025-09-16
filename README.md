@@ -16,9 +16,7 @@ A mesmerizing recreation of the iconic "digital rain" effect from The Matrix mov
 ```
 matrix-digital-rain/
 ├── matrix.html          # Main HTML file with embedded CSS and JavaScript
-├── README.md           # Project documentation
-├── LICENSE             # MIT License
-└── preview.gif         # Demo preview image
+└── README.md            # Project documentation
 ```
 
 ## 🎮 Usage
